@@ -58,7 +58,7 @@ if __name__ == '__main__':
             else:
                 if gr <= 7:
                     gr = 7
-                    print(f'Repobatory grade! NA: {gr}' ) 
+                    print(f'Reprobatory grade! NA: {gr}' ) 
                 else:
                     pass
                 grades[len(grades):] = [gr]
