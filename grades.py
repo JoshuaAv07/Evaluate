@@ -53,7 +53,7 @@ if __name__ == '__main__':
         for _ in range(0,n):
             gr = int(input()) 
             if gr < 0 or gr > 10:
-                #grades = 0
+                grades = 0
                 break
             else:
                 if gr <= 7:
